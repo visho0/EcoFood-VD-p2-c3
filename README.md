@@ -9,6 +9,4 @@ ecofood/
 │   └── auth.js         # Lógica de autenticación
 ├── css/
 │   └── styles.css      # Estilos principales
-├── js/
-│   └── main.js         # JavaScript principal
 └── README.md           # Documentación del proyecto
